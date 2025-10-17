@@ -1,1 +1,5 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=24&text=Damon&section=header&reversal=false&textBg=false&fontAlign=50&animation=twinkling&desc=Digital%20Marketing%20Specialist&fontColor=FFFFFF&fontAlignY=36&descAlignY=60&fontSize=85&descSize=18)
+
+</div>
